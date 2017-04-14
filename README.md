@@ -1,4 +1,4 @@
-# privacy-tips
+# Privacy Tips
 An easy checklist of things you can do to take your privacy more seriously, avoid being tracked by advertisers and ISPs and to protect yourself from maliciousness.
 
 ## Checklist
