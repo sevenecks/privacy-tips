@@ -9,12 +9,12 @@ An easy checklist of things you can do to take your privacy more seriously, avoi
 4. Accpet that you are being watched. The government has a secret system, a machine that spies on you every hour of every day.
 5. Recognize that having nothing to hide is not an excuse for lax privacy safeguards.
 6. Realize fraud and identity theft _can_ happen to you.
-7. Stop using Facebook Messenger on your phone.
-8. Stop using Facebook altogther.  At the very least, untag all your photos and turn on tag auditing to prevent anyone tagging you without your consent.
-9. Disable your phones GPS when it is not in use.
-10. Disable your phones bluetooth when it's not in use.
-11. Disable your phones wifi when it's not in use.
-12. Use (HTTPSEverywhere)[https://www.eff.org/https-everywhere] and when not in use, avoid any and all http only websites.
+7. Stop using [Facebook Messenger](FACEBOOKMESSENGER.md) on your phone.
+8. Stop using [Facebook](FACEBOOK.md) altogther.  At the very least, untag all your photos and turn on tag auditing to prevent anyone tagging you without your consent.
+9. Disable your phones [GPS](GPS.md) when it is not in use.
+10. Disable your phones [bluetooth](BLUETOOTH.md) when it's not in use.
+11. Disable your phones [wifi](WIFI.md) when it's not in use.
+12. Use (HTTPSEverywhere)[https://www.eff.org/https-everywhere] and when not in use, avoid any and all [http only](HTTPONLY.md) websites.
 
 ### Contributing
 
