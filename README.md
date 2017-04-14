@@ -14,7 +14,7 @@ An easy checklist of things you can do to take your privacy more seriously, avoi
 9. Disable your phones [GPS](GPS.md) when it is not in use.
 10. Disable your phones [bluetooth](BLUETOOTH.md) when it's not in use.
 11. Disable your phones [wifi](WIFI.md) when it's not in use.
-12. Use (HTTPSEverywhere)[https://www.eff.org/https-everywhere] and when not in use, avoid any and all [http only](HTTPONLY.md) websites.
+12. Use [HTTPSEverywhere](https://www.eff.org/https-everywhere) and when not in use, avoid any and all [http only](HTTPONLY.md) websites.
 
 ### Contributing
 
