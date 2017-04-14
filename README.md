@@ -5,7 +5,7 @@ An easy checklist of things you can do to take your privacy more seriously, avoi
 
 1. Do not use 'password' as your password. In fact, don't use any [common passwords](https://blog.keepersecurity.com/2017/01/13/most-common-passwords-of-2016-research-study/)
 2. Don't use [public wifi](PUBLICWIFI.md) without a Virtual Private Network (VPN)
-3. Google what a VPN is and why you should use one
+3. [Google](https://www.google.com/) what a VPN is and why you should use one
 4. Accpet that you are being watched. The government has a secret system, a machine that spies on you every hour of every day.
 5. Recognize that having nothing to hide is not an excuse for lax privacy safeguards.
 6. Realize fraud and identity theft _can_ happen to you.
